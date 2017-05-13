@@ -1,0 +1,21 @@
+/* Styles for the search page */
+/* Quote Daily, Feb. 2011 */
+
+.search {
+}
+
+.search_page_text {
+text-align: left;
+}
+
+.search_page_numbers {
+width: 100%;
+text-align: center;
+}
+
+.search_page_number {
+display: inline;
+text-align: center;
+padding: 0.5em;
+}
+

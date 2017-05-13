@@ -1,0 +1,12 @@
+/*
+*
+* Styles for the admin pages
+* Luke Mitchell, Dec. 2010
+*
+*/
+
+#admin_title
+{
+	font-weight: bold;
+	font-size: larger;
+}

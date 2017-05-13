@@ -1,0 +1,30 @@
+/* Styles for the quotes and related content */
+/* Quote Daily, Nov. 2010 */
+
+.quote {
+font-size: larger;
+font-weight: normal;
+/* to-do: double line width */
+}
+
+.quote a{
+font-weight: normal;
+text-decoration: none;
+color: black;
+}
+
+.quote a:hover{
+font-weight: normal;
+text-decoration: none;
+color: black;
+}
+
+.author {
+text-align: right;
+}
+
+.author a {
+font-weight: bold;
+text-decoration: none;
+color: black;
+}

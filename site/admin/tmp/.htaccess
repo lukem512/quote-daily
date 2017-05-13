@@ -1,0 +1,9 @@
+AuthUserFile C:\wamp\www\quotes\admin\.htpasswd
+AuthName "Stop! Log in time"
+AuthType Basic
+Options -Indexes
+IndexIgnore *
+ErrorDocument 404 /admin/error.php
+<Limit GET POST>
+require valid-user
+</Limit>

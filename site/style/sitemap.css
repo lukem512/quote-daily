@@ -1,0 +1,23 @@
+/* Styles for the sitemap XML */
+/* Quote Daily, Feb. 2011 */
+
+url {
+display: block;
+border-bottom: 1px solid black;
+padding: 1em;
+}
+
+loc {
+display: block;
+font-weight: bold;
+}
+
+changefreq {
+display: block;
+padding-left: 1em;
+}
+
+priority {
+display: block;
+padding-left: 1em;
+}

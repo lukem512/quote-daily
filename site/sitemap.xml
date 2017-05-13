@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="style/sitemap.css" type="text/css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <url>
+                <loc>http://www.quote-daily.com/index.php</loc>
+                <changefreq>daily</changefreq>
+                <priority>1</priority>
+        </url>
+		<url>
+                <loc>http://www.quote-daily.com/rss.php</loc>
+                <changefreq>daily</changefreq>
+                <priority>1</priority>
+        </url>
+		<url>
+                <loc>http://www.quote-daily.com/random.php</loc>
+                <changefreq>always</changefreq>
+                <priority>0.5</priority>
+        </url>
+		<url>
+                <loc>http://www.quote-daily.com/search.php</loc>
+                <changefreq>always</changefreq>
+                <priority>1</priority>
+        </url>
+</urlset>

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin
+Disallow: /inc
+Disallow: /img
+Disallow: /style
+Disallow: /scripts
+Sitemap: http://www.quote-daily.com/sitemap.xml
